@@ -1,0 +1,6 @@
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/bin/Debug/OOP_PASS.exe
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/bin/Debug/OOP_PASS.pdb
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/obj/Debug/OOP_PASS.csproj.AssemblyReference.cache
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/obj/Debug/OOP_PASS.csproj.CoreCompileInputs.cache
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/obj/Debug/OOP_PASS.exe
+/Users/shaunfeldman/Projects/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/obj/Debug/OOP_PASS.pdb

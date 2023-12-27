@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{620B793C-3460-469A-BBBD-9EE923B48158}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_PASS/Program.cs">
+    <Files>
+      <File FileName="OOP_PASS/Program.cs" Line="6" Column="74" IsPinned="True" />
+      <File FileName="OOP_PASS/Manager.cs" IsPinned="True" />
+      <File FileName="OOP_PASS/Item.cs" IsPinned="True" />
+      <File FileName="OOP_PASS/Movie.cs" IsPinned="True" />
+      <File FileName="OOP_PASS/Game.cs" Line="41" Column="36" IsPinned="True" />
+      <File FileName="OOP_PASS/Book.cs" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP_PASS" expanded="True">
+            <Node name="OOP_PASS" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OOP__PASS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
